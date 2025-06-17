@@ -1,6 +1,6 @@
 # Node.js Without Admin
 
-Run Node.js, npm, and npx commands on Windows without needing admin rights. This solution provides a lightweight batch file, when paired with the portable Node.js Standalone Binary ZIP, allow's Node.js access without having admin permissions — no changes to your system, no registry edits, and no PATH updates. Works anywhere you have write. Great for school, work, or any locked-down computer where you don't have admin permissions. See below for setup and usage.
+Run Node.js, npm, and npx commands on Windows without needing admin rights. This solution provides a lightweight batch file, when paired with the portable Node.js Standalone Binary ZIP, allow's Node.js access without having admin permissions — no changes to your system, no registry edits, and no PATH updates.
 
 ---
 
